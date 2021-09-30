@@ -11,6 +11,12 @@ li {
     line-height: 2em;
 }
 
+.imgwh
+{
+    width: 270px;
+    height:270px;
+}
+
 a,
 button {
     transition: all .3s ease-in-out;
