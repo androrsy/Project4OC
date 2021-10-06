@@ -22,6 +22,26 @@ li {
     height: 153px;
 }
 
+.atlantapic {
+    width: 100px;
+    height: 102.5px;
+}
+
+.titlepic {
+    width: 600px;
+    height: 66px;
+}
+
+.title2pic {
+    width: 600px;
+    height: 57px;
+}
+
+.navbarpic {
+    width: 214.44px;
+    height: 40px;
+}
+
 a,
 button {
     transition: all .3s ease-in-out;
