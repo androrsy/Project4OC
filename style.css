@@ -17,6 +17,11 @@ li {
     height:270px;
 }
 
+.qpic {
+    width: 580px;
+    height: 153px;
+}
+
 a,
 button {
     transition: all .3s ease-in-out;
