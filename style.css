@@ -1062,6 +1062,27 @@ h4 {
         padding-left: 0;
         padding-right: 0;
     }
+
+    .qpic {
+        width: 376px;
+        height: 153px;
+    }
+
+    .titlepic {
+        width: 365px;
+        height: 66px;
+    }
+
+    .title2pic {
+        width: 345px;
+        height: 57px;
+    }
+    
+    .imgwh {
+        width: 331px;
+        height: 270px;
+    }
+    
 }
 
 @media (max-width: 767px) {
