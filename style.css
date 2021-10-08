@@ -526,6 +526,10 @@ button {
     box-shadow: none;
 }
 
+.form-group {
+    padding-bottom: 10px;
+}
+
 .scrollToTop {
     width: 40px;
     height: 40px;
