@@ -46,6 +46,7 @@ a,
 button {
     transition: all .3s ease-in-out;
     outline: none!important;
+    color:#FFF !important;
 }
 
 a:hover {
