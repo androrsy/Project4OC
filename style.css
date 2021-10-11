@@ -1070,23 +1070,23 @@ h4 {
     }
 
     .qpic {
-        width: 376px;
-        height: 153px;
+        width: 100%;
+        height: 100%;
     }
 
     .titlepic {
-        width: 365px;
-        height: 66px;
+        width: 100%;
+        height: 100%;
     }
 
     .title2pic {
-        width: 345px;
-        height: 57px;
+        width: 100%;
+        height: 100%;
     }
     
     .imgwh {
-        width: 270px;
-        height: 270px;
+        width: 100%;
+        height: 100%;
     }
     
 }
