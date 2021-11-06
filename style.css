@@ -851,6 +851,8 @@ h4 {
 
 .bg-atlanta-20made-20sign {
     background-image: url("img/atlantamadesign.webp");
+    width: 100%;
+    background-size: cover;
 }
 
 .bg-atlanta-20made-20sign-20orange {  
