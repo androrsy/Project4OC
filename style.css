@@ -1089,8 +1089,8 @@ h4 {
     }
 
     .navbar-brand img {
-        max-height: 418px;
-        width: 80px;
+        max-height: 418px !important;
+        width: 80px !important;
     }
 
     
