@@ -320,6 +320,8 @@ a:hover {
 
 .navbar-brand img {
     display: inline;
+    height: 321px;
+    width: 60px;
 }
 
 .navbar-brand img[src$=svg] {
@@ -996,8 +998,7 @@ h4 {
         box-shadow: none;
     }
     .navbar-brand img {
-        height: 321px;
-        width: 60px;
+        
     }
     .nav-invert .navbar-header {
         float: none;
