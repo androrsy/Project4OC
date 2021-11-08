@@ -11,6 +11,11 @@ li {
     line-height: 2em;
 }
 
+.text1 {
+    font-size: 20px !important;
+    padding-bottom: 20px;
+}
+
 .imgwh
 {
     width: 270px;
